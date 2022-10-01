@@ -4,7 +4,7 @@ In this game you add each PacMan image to the screen that randomly start to "dro
 
 This exercise was a great way to demonstrate animation, movement, the depth and feel of the space - and create visual chaos.  We creatd a "PacMan Factory". As an enhancement, more than one "version" of PacMan images were introduced.  That, in addition to the random "fall", demonstrated so many opportunities to explore.  As a side note, graphically I rarely approve of the visual "over-doing" it.  But, in this case it was the most movement to date for me to code and gave me a great sense of accomplishment!
 
-**WANNA Play?&& 
+**WANNA Play?**
 
 To execute: press ADD PACMAN  - press START GAME ; You can add as many of the PacMen as you like by pressing the ADD PACMAN button.  You can add before and after starting the game.
 
