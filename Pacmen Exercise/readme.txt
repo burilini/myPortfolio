@@ -1,8 +1,9 @@
-<b>THE PACMEN GAME DROP GAME!</b> 
+####**THE PACMEN DROP GAME!**
+
 
 In this game you add pacman images to the screen that randomly start to "drop"!  4 year olds can play for HOURS!
 
-This exercise was a great way to demonstrate animation, movement, the depth and feel of the space - and create visual chaos.  As a side note, graphically I rarely approve of the visual "over-doing" it.  But, in this case it was the most movement to date for me to code and gave me a great sense of accomplishment.
+This exercise was a great way to demonstrate animation, movement, the depth and feel of the space - and create visual chaos.  We creatd a "Pacmen Factory".  As a side note, graphically I rarely approve of the visual "over-doing" it.  But, in this case it was the most movement to date for me to code and gave me a great sense of accomplishment.
 
 WANNA Play? : 
 
