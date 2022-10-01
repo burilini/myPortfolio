@@ -1,6 +1,11 @@
-I loved this exercise!
+<b>THE PACMEN GAME DROP GAME!</b> 
 
-This exercise was put in our path to learn and demonstrate animation, movement, and create visual chaos.  As a side note, graphically I rarely approve of the visual "over-doing" it.  But in this case it was the most movement to date for me to code and gave me a great sense of accomplishment.
+In this game you add pacman images to the screen that randomly start to "drop"!  4 year olds can play for HOURS!
+
+This exercise was a great way to demonstrate animation, movement, the depth and feel of the space - and create visual chaos.  As a side note, graphically I rarely approve of the visual "over-doing" it.  But, in this case it was the most movement to date for me to code and gave me a great sense of accomplishment.
+
+WANNA Play? : 
+
 To execute: press ADD PACMAN  - press START GAME ; You can add as many of the PacMen as you like by pressing the ADD PACMAN button.  You can add before and after starting the game.
 
 In the future, I am going to add more images of pacmen in different colors and/or styles.  I would also like to regulate different speeds for them.  I have a grandson that loves this!
