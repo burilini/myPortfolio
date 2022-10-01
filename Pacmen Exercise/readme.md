@@ -1,5 +1,4 @@
-####THE PACMEN DROP GAME!
-
+###THE PACMEN DROP GAME!
 
 In this game you add pacman images to the screen that randomly start to "drop"!  4 year olds can play for HOURS!
 
